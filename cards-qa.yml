@@ -1,0 +1,11 @@
+build:
+  version: "1.0qa"
+
+cards:
+  message: "Welcome to EazyBank Cards QA Microservice"
+  contactDetails:
+    email: "Qa@faizarfi.dev"
+    name: "Faiz Arfi"
+  OnCallSupport:
+    - 555 555-1234
+    - 555 555-5678
