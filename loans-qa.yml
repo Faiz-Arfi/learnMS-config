@@ -2,7 +2,7 @@ build:
   version: "1.0qa"
 
 loans:
-  message: "Welcome to EazyBank Loans QA Microservice"
+  message: "Welcome to EazyBank Loans QA edit Microservice"
   contactDetails:
     email: "mail@faizarfi.dev"
     name: "Faiz Arfi"
