@@ -2,7 +2,7 @@ build:
   version: "1.0r"
 
 cards:
-  message: "Welcome to EazyBank Cards Prod Microservice"
+  message: "Welcome to EazyBank Cards Prod Microservices"
   contactDetails:
     email: "mail@faizarfi.dev"
     name: "Faiz Arfi"
