@@ -2,7 +2,7 @@ build:
     version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank Accounts Microservice"
+  message: "Welcome to EazyBank Accounts dev(default) Microservice"
   contactDetails:
     email: "{cipher}1c72f97c005a1e7c1407e0277ce05481a71f3e4d21c644381b09fd67b4c3b0a688ef372b455357847b8bed96e885cd51"
     name: "Faiz Arfi"
