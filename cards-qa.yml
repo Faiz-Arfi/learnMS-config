@@ -2,7 +2,7 @@ build:
   version: "1.0qa"
 
 cards:
-  message: "Welcome to EazyBank Cards QA Microservice"
+  message: "Welcome to EazyBank Cards QA Microservices"
   contactDetails:
     email: "Qa@faizarfi.dev"
     name: "Faiz Arfi"
